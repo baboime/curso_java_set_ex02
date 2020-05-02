@@ -31,7 +31,7 @@ public class Programa {
 			cursoB.add(sc.nextInt());
 		}
 		
-		System.out.print("Quantos estudantes estão no curso B? ");
+		System.out.print("Quantos estudantes estão no curso C? ");
 		qtde = sc.nextInt();
 		
 		for (int i=0; i<qtde; i++) {
